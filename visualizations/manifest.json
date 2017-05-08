@@ -1,14 +1,14 @@
 {
-  "mycompany": {
-    "title": "[DISPLAY_NAME]",
-    "website": "[WEBSITE_URL]",
-    "logo": "[LOGO_URL]",
+  "SajendraN": {
+    "title": "Sajendra Nithiananthan",
+    "website": "https://github.com/SajendraN",
+    "logo": "https://avatars3.githubusercontent.com/u/5788434?v=3",
     "visualizations": {
 
 
       "list": {
           "license": "MIT",
-          "website": "[INFO_URL]",
+          "website": "https://github.com/SajendraN",
           "versions": {
             "1.0.0": {
               "simple": {
